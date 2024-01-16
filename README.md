@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @haustechniker
+- 👀 I’m interested in learning 
+- 🌱 I’m currently learning Frontend Development with the aim of Full Stack in the future.
+- 📫 How to reach me on here
+- 😄 Pronouns: You/Me/They
